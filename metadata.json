@@ -1,0 +1,8 @@
+{
+  "name": "Singroup Media ",
+  "description": "Sin Group Medya üçün Enterprise səviyyəli Biznes İdarəetmə Sistemi, CRM, Layihə Mərkəzi, Əməkhaqqı \u0026 Faiz Kalkulyatoru və Akademiya Portalı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
